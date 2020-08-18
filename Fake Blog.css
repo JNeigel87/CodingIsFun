@@ -1,0 +1,71 @@
+html{
+    background-color: black
+}
+h1{
+    background-color: grey;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+h2{
+    width: 500px;
+    margin: 0 auto;
+}
+body{
+    background-color: darkred;
+    color: rgb(0, 255, 213);
+}
+h3{
+    display: block;
+    background-color: pink;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+p1{
+    display: block;
+    color: greenyellow;
+    background-color: darkgreen;
+}
+ul{
+    background-color: darkgoldenrod;
+    font-weight: bold;
+    color: darkblue;
+    width: 300px;
+    margin: auto
+}
+input{
+    background-color: black;
+    color: red;
+    font-weight: 450;
+}
+option{
+    background-color: darkcyan;
+    color: antiquewhite;
+    font-weight: bold;
+}
+select{
+    background-color: lawngreen;
+    color: black;
+    font-weight: bolder;
+}
+#box-1, #box-2 {
+    height: 130px;
+    width: 350px;
+}
+#box-1{
+    background-color: lime;
+    padding: 5px;
+    margin: 5px;
+}
+#box-2{
+    background-color: skyblue;
+    color: blue;
+    font-weight: bold;
+    padding: 10;
+    align-content: center;
+}
